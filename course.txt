@@ -33,7 +33,7 @@
         <!--------- Course -------->
         <section class="course">
             <h1>The Science Behind Mental Health</h1>
-        <p1>Let's divert our way from misconceptiona and misunderstanding.<br>
+        <p1>Let's divert our way from misconception and misunderstanding.<br>
              Have you ever wonder what is behind when we experience mental health problem?.</p1>
 
         <div class="row">
@@ -41,7 +41,7 @@
                 <h3>MYTHSBUSTERS</h3>
                 <p><b>Myth</b><br>
                   Talking about suicide will encourage
-                  someone to attempt suiciede<br><br>
+                  someone to attempt suicied<br><br>
 
                 <b>Facts</b><br>
                   Talking abiut suicide drives communication.
