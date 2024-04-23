@@ -497,20 +497,20 @@ h3{
    
 }
 .about-col img{
-    width: 28%;
+    width: 16%;
+    height: 40%;
     position: absolute;
-    top: 60%;
+    top: 62%;
     left: 54%;
     border: #154360;
-    border-style: double;
 }
-.about-col1 img{
-    width: 28%;
+.about-col2 img{
+    width: 16%;
+    height: 40%;
     position: absolute;
-    top: 100%;
+    top: 119%;
     left: 54%;
     border: #154360;
-    border-style: double;
 }
 .about-col h1{
     padding-top: 0;
