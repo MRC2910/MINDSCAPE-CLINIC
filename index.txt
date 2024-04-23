@@ -74,7 +74,7 @@
     </section>
     <!-- ----- CONSULTAION -------->
     <section class="CONSULTAION">
-        <h1>First time with the Pulse?</h1>
+        <h1>First time with Mindscape Clinic?</h1>
         <p1>No problem! We'll show you how to start</p1>
 
         <div class="row">
@@ -147,7 +147,7 @@
 
 
     <section class="cta">
-        <h1>Look for our various spots<br> Anywhere from the Madalag</h1>
+        <h1>Let's work together to create a happier<br> mental environment for fulfillment and mental health.</h1>
         <a href="contact.html.html" class="hero-btn1">CONTACT US</a>
     
     </section>
